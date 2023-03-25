@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, Meu nome é OnlyTH</h1>
 
-- Atualmente estou aprendendo Python.
+- Atualmente estou aprendendo Python e C#.
 - Estou focado no desenvolvimento do **[OnlyTH777/VALORANT-HeadHunter](https://github.com/OnlyTH777/VALORANT-Headhunter)**.
 
 ##
