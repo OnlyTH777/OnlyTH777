@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Meu nome é OnlyTH</h1>
+<h1 align="center">Olá 👋, Meu nome é Tiago, mas me conhecem por OnlyTH</h1>
 
 - Sou um desenvolvedor back-end iniciante.
 - Atualmente estou aprendendo Python e C#.
