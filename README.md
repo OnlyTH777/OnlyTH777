@@ -2,7 +2,7 @@
 
 - Sou um desenvolvedor back-end iniciante.
 - Atualmente estou aprendendo Python e C#.
-- Estou focado no desenvolvimento da segunda versão do **[OnlyTH777/VALORANT-HeadHunter](https://github.com/OnlyTH777/VALORANT-Headhunter)** (Projetos temporariamente privados).
+- Estou focado no desenvolvimento do **[OnlyTH777/VALORANT-HeadHunter](https://github.com/OnlyTH777/VALORANT-Headhunter)**.
 
 #
 
