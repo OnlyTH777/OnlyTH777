@@ -2,7 +2,6 @@
 
 - Sou um desenvolvedor back-end iniciante.
 - Atualmente estou aprendendo Python e C#.
-- Estou focado no desenvolvimento do **[OnlyTH777/VALORANT-HeadHunter](https://github.com/OnlyTH777/VALORANT-Headhunter)**.
 
 #
 
@@ -14,10 +13,10 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/tiago-henrique-padilha">
-    <img width="35px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" />
+    <img width="36px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" />
   </a>
-  <a href="https://www.instagram.com/padilha.th777">
-    <img width="35px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/instagram.svg" />
+  <a href="https://www.instagram.com/padilha.th666">
+    <img width="36px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/instagram.svg" />
   </a>
 
 </div>
