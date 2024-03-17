@@ -2,7 +2,7 @@
 
 <ul>
     <li>Sou um desenvolvedor back-end iniciante.</li>
-    <li>Atualmente estou aprendendo Python e C#.</li>
+    <li>Atualmente estou aprendendo Python e JS.</li>
 </ul>
 
 <div align="center">
